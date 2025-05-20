@@ -1,0 +1,2 @@
+Usuario=lucas
+model name	: AMD Ryzen 5 3600 6-Core Processor
